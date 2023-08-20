@@ -26,7 +26,7 @@ vim.treesitter.query.set(
 ]]
 )
 
-vim.treesitter.query.set_query(
+vim.treesitter.query.set(
     "phpdoc",
     "Alpha_refactor_property_phpdoc_types",
     [[
